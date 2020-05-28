@@ -1,24 +1,24 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Cody Reece
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A virtual proof that IDK what I'm doing.
 
 # Your name to show in the footer
-author: Some Person
+author: Cody Reece
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "a 9mm cannot kill a bear"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
-# --- Logo --- #
+# https://i.pinimg.com/originals/51/ca/ed/51caed5432460eaa9c7773778a0ebaae.jpg #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
