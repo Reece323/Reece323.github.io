@@ -4,7 +4,7 @@ title: About me
 subtitle: New Beginnings
 ---
 
-My name is Cody Reece. I have the following qualities:
+My name is Cody Reece. I have the following random facts:
 
 - I once fell down a mountain and broke my leg.
 - Sometimes I get the Oscar Mayer weiner song stuck in my head.
