@@ -19,7 +19,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
-https://i.pinimg.com/originals/51/ca/ed/51caed5432460eaa9c7773778a0ebaae.jpg 
+#https://i.pinimg.com/originals/51/ca/ed/51caed5432460eaa9c7773778a0ebaae.jpg 
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -30,7 +30,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /path/to/image
+#title-img: /path/to/image
 
 
 # --- Footer options --- #
@@ -85,7 +85,7 @@ excerpt_length: 50
 navbar-col: "#19ee33"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
-page-col: "#666666"
+page-col: "#c5c5c5"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
