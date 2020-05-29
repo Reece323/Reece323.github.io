@@ -1,9 +1,9 @@
 # --- Basic options --- #
 
 # Name of website
----
+
 title: My website
----
+
 # Short description of your site
 description: A virtual proof that I'm awesome
 
@@ -18,9 +18,9 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
----
+
 # https://i.pinimg.com/originals/51/ca/ed/51caed5432460eaa9c7773778a0ebaae.jpg #
----
+
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar-icon.png"
@@ -44,7 +44,7 @@ social-network-links:
   github: daattali
   twitter: daattali
   rss: true
-#  reddit: yourname
+#  reddit: yourname‰
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
